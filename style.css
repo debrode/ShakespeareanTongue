@@ -40,5 +40,12 @@ textarea{
 #tran{
     border: solid 2px chocolate;
     border-radius: 15px;
+    font-family: 'Langar', cursive;
+    color: brown;
+}
+#tran:hover{
+    background-color: brown;
+    color: cornsilk;
+}
 
 }
